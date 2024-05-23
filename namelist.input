@@ -1,6 +1,5 @@
-! This is the namelist.input in "/WRF-SFIRE/test/em_fire" directory. It is used to run an ideal test case "simple_hill". 
+! This is the namelist.input in "/WRF-SFIRE/test/em_fire" directory. It is used to run an ideal test case "hill_simple". 
 ! 31 outputs for 0001-01-01 every two minutes from 00:00:00 to 01:00:00
-!The output of this run will plot by the python code presented here in the file named "Python code to plot"
 
  &time_control
  run_days                            = 0,
